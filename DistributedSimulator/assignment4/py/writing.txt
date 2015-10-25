@@ -1,0 +1,12 @@
+Add word:  &MOUNTEBANK:Definition:	(noun) A hawker of quack medicines who attracts customers with stories, jokes, or tricks.
+Word has already existed.
+Add word:  &mountebank:Definition:	(noun) A hawker of quack medicines who attracts customers with stories, jokes, or tricks.
+Word has already existed.
+Add word:  &Glucophage:Definition:	A trademark for the drug metformin.
+Adding word successfully.
+Add word:  &Antioxidant:Definition:	Any substance that reduces the damage caused by oxidation, such as the harm caused by free radicals.
+Adding word successfully.
+Requesting port: 9002
+Number of words to be requested: 4
+Number of definitions to be recieved: 4
+Elapsed time:  0:00:09.672319
